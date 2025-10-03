@@ -1,7 +1,7 @@
-                                                  Hi 👋, I'm Misba Khanum S
+                                                     ### **Hi 👋, I'm Misba Khanum S**
                                                                         
                                                                         
-🚀 About Me
+### **🚀 About Me**
 
 I'm an Aspiring Software Engineer with strong expertise in Java, Spring Boot, SQL, and web technologies. With hands-on experience in building full-stack applications, I am currently exploring React, Spring Security, Blockchain, and distributed systems.
 
@@ -14,9 +14,9 @@ I'm an Aspiring Software Engineer with strong expertise in Java, Spring Boot, SQ
 📫 How to Reach Me: khanmisba0214@gmail.com
 
 
-🛠️ Skills & Technologies
+### **🛠️ Skills & Technologies**
 
-Programming Languages
+### **Programming Languages**
   Java
   Python
   Javascript
@@ -27,7 +27,7 @@ Programming Languages
 * React (Learning)
 * Thymeleaf (Server-side templating)
   
-Backend Development
+### **Backend Development**
   Java (Core & Advanced)
   JDBC, Hibernate & JPA
   Spring Framework (Spring MVC, Spring Boot, Rest APIs, Spring Data JPA, Spring Security)
@@ -44,7 +44,7 @@ Backend Development
 * **Cloud Platforms:** AWS Basics
 * **Message Queues & Caching:** Kafka, Redis (Exploring)
 
-Tools & Other Technologies
+### **Tools & Other Technologies**
   Git & GitHub
   Postman (API Testing)
   VS Code
@@ -55,8 +55,8 @@ Tools & Other Technologies
 * Collaboration
 * Problem-solving
 
-🔗 Connect with Me
-Code. Create. Connect.
+
+### **Code. Create. Connect.**
 
 **Misba-0214/Misba-0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
