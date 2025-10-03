@@ -16,7 +16,7 @@ I'm an **Aspiring Software Engineer** with strong expertise in **Java, Spring Bo
 
 ### **🛠️ Skills & Technologies**
 
-**Programming Languages**
+### **Programming Languages**
   Java
   Python
   Javascript
