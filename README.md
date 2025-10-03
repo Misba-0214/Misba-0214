@@ -28,11 +28,11 @@ I'm an ### **Aspiring Software Engineer** with strong expertise in ### **Java, S
 * Thymeleaf (Server-side templating)
   
 ### **Backend Development**
-  Java (Core & Advanced)
-  JDBC, Hibernate & JPA
-  Spring Framework (Spring MVC, Spring Boot, Rest APIs, Spring Data JPA, Spring Security)
-  Microservices Architecture
-  API Security (JWT, OAuth2, Role-Based Access Control)
+* Java (Core & Advanced)
+* JDBC, Hibernate & JPA
+* Spring Framework (Spring MVC, Spring Boot, Rest APIs, Spring Data JPA, Spring Security)
+* Microservices Architecture
+* API Security (JWT, OAuth2, Role-Based Access Control)
 
 ### **Databases**
 * MySQL
@@ -45,10 +45,10 @@ I'm an ### **Aspiring Software Engineer** with strong expertise in ### **Java, S
 * **Message Queues & Caching:** Kafka, Redis (Exploring)
 
 ### **Tools & Other Technologies**
-  Git & GitHub
-  Postman (API Testing)
-  VS Code
-  IntelliJ 
+* Git & GitHub
+* Postman (API Testing)
+* VS Code
+* IntelliJ 
 
 ### **Soft Skills**
 * Communication
