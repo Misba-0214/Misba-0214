@@ -3,15 +3,15 @@
                                                                         
 ### **🚀 About Me**
 
-I'm an Aspiring Software Engineer with strong expertise in Java, Spring Boot, SQL, and web technologies. With hands-on experience in building full-stack applications, I am currently exploring React, Spring Security, Blockchain, and distributed systems.
+I'm an ### **Aspiring Software Engineer** with strong expertise in ### **Java, Spring Boot, SQL, and web technologies**. With hands-on experience in building full-stack applications, I am currently exploring ### **React, Spring Security, Blockchain, and distributed systems**.
 
-🔭 Currently Learning: Spring Security, Microservices, React, Docker, Kubernetes, Kafka, Blockchain
+### **🔭 Currently Learning**: Spring Security, Microservices, React, Docker, Kubernetes, Kafka, Blockchain
 
-💬 Ask Me About: Java, Spring Boot, Spring Security,  REST APIs, Microservices
+### **💬 Ask Me About**: Java, Spring Boot, Spring Security,  REST APIs, Microservices
 
-💡 Interested in: Building scalable applications, Blockchain innovation,  Cloud-native applications, API security
+### **💡 Interested in**: Building scalable applications, Blockchain innovation,  Cloud-native applications, API security
 
-📫 How to Reach Me: khanmisba0214@gmail.com
+### **📫 How to Reach Me**: khanmisba0214@gmail.com
 
 
 ### **🛠️ Skills & Technologies**
