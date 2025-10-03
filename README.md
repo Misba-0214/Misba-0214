@@ -1,4 +1,4 @@
-                                                     ### **Hi 👋, I'm Misba Khanum S**
+                                                    Hi 👋, I'm Misba Khanum S
                                                                         
                                                                         
 ### **🚀 About Me**
