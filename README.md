@@ -1,4 +1,4 @@
-# Hi 👋, I'm **Misba Khanum S**
+<h1 align="center">Hi 👋, I'm <b>Misba Khanum S</b></h1>
 
 ---
 
@@ -59,8 +59,6 @@ Java | Python | Javascript
 
 ## **💭 "Code. Create. Connect."**
 
----
-
 ### **🤝 Connect with Me:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misba-khanum-s-ab0205280) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MisbaKhan548607) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/misba_khan_0214)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />](https://www.linkedin.com/in/misba-khanum-s-ab0205280) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />](https://twitter.com/MisbaKhan548607) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />](https://www.instagram.com/misba_khan_0214)
