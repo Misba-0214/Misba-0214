@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm <b>Misba Khanum S</b></h1>
 
-
-
 ## **🚀 About Me**
 
 I'm an **Aspiring Software Engineer** with strong expertise in **Java, Spring Boot, SQL, and web technologies**. With hands-on experience in building full-stack applications, I am currently exploring **React, Spring Security, Blockchain, and distributed systems**.
@@ -13,7 +11,6 @@ I'm an **Aspiring Software Engineer** with strong expertise in **Java, Spring Bo
 **💡 Interested in**: Building scalable applications, Blockchain innovation, Cloud-native applications, API security
 
 **📫 How to Reach Me**: khanmisba0214@gmail.com
-
 
 
 ## **🛠️ Skills & Technologies**
@@ -56,9 +53,8 @@ Java | Python | Javascript
 * Problem-solving
 
 
-
 ## **💭 "Code. Create. Connect."**
 
-### **🤝 Connect with Me:**
+<h1><b>🤝 Connect with Me: </b></h1>
 
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />](https://www.linkedin.com/in/misba-khanum-s-ab0205280) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />](https://twitter.com/MisbaKhan548607) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />](https://www.instagram.com/misba_khan_0214)
