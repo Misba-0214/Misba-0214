@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <b>Misba Khanum S</b></h1>
 
----
+
 
 ## **🚀 About Me**
 
@@ -14,7 +14,7 @@ I'm an **Aspiring Software Engineer** with strong expertise in **Java, Spring Bo
 
 **📫 How to Reach Me**: khanmisba0214@gmail.com
 
----
+
 
 ## **🛠️ Skills & Technologies**
 
@@ -55,7 +55,7 @@ Java | Python | Javascript
 * Collaboration
 * Problem-solving
 
----
+
 
 ## **💭 "Code. Create. Connect."**
 
