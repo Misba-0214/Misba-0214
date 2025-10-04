@@ -54,7 +54,7 @@ Java | Python | Javascript
   
 <h2><b>🤝 Connect with Me: </b></h2>
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />](https://www.linkedin.com/in/misba-khanum-s-ab0205280) <br>[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="50" width="50" />](https://twitter.com/MisbaKhan548607) <br>[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />](https://www.instagram.com/misba_khan_0214)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />](https://www.linkedin.com/in/misba-khanum-s-ab0205280)-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="0" />](https://twitter.com/MisbaKhan548607)-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />](https://www.instagram.com/misba_khan_0214)
 
 ## **💭 "Code. Create. Connect."**
 
